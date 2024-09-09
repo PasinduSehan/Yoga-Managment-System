@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\eclips\e_slip\.metadata\.plugins\org.eclipse.jdt.core
+551877003.index
+4192679645.index
+38264673.index
+258689332.index
+1865797976.index
